@@ -113,8 +113,12 @@
         <div class="article">
             <h3>Curiosidades</h3>
             <p>O Grêmio foi o primeiro clube brasileiro a conquistar a Copa Libertadores da América, em 1983. O estádio do Grêmio, a Arena do Grêmio, foi inaugurado em 2012 e sediou jogos da Copa do Mundo FIFA de 2014.</p>
-           <img src="https://jpimg.com.br/uploads/2023/04/conheca-a-historia-do-coritiba-no-campeonato-brasileiro-de-futebol.jpg">
         </div>
     </section>
 </body>
 </html>
+<img src=https://jpimg.com.br/uploads/2023/04/conheca-a-historia-do-coritiba-no-campeonato-brasileiro-de-futebol.>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ePvy08108TW7iQXRx_iGECGPRKTwev6Xn1KxUlnsGw&s>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2kZ3NL8SCW5dmNZvueUQo4WlrQCc8PUYd__ALBsBY8g&s>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2uo3zbh-WR-e_19xN-_4BTvfVsyRzO49b_diW4E53Q&s>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/1200px-Gremio_logo.svg.>
