@@ -98,3 +98,14 @@
     </footer>
 </body>
 </html>
+<img src=blob:https://web.whatsapp.com/b4e6d7fa-96a4-438f-bc2b-dee7033c8b6a>
+<p><strong>LUIZ FERNANDO GARCIA CORREA
+
+<img src=blob:https://web.whatsapp.com/6da226e1-2bac-4cf0-974a-7cfe7c865c38>
+<p><strong>ARTHUR HENRIQUE DE CARVALHO
+
+<img src=blob:https://web.whatsapp.com/78848046-ffc5-494c-8ae2-e78264b123c4>
+<p><strong>JOÃO VICTOR SILVA COSTA
+
+<img scr=blob:https://web.whatsapp.com/39b19a32-5fd0-420b-98e9-b7ce3ce482d8>    
+<p><strong>CAIO SILVA DE CASTRO
